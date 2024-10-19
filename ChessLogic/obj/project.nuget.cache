@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SMwgzX4IbbQyeccDU3skTowFiLJxP/w0NQ7sGdrjIWNZAElVH0MkKJQCKYzjOYmd9aTW6CUXIyuLQnaYFoGKQw==",
+  "success": true,
+  "projectFilePath": "E:\\ChessGame\\ChessLogic\\ChessLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Артём Плешаков\\.nuget\\packages\\stockfish.net\\1.0.7\\stockfish.net.1.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

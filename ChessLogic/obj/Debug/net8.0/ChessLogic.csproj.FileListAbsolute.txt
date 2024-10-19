@@ -1,0 +1,24 @@
+C:\Users\Артём Плешаков\source\repos\ChessGame\ChessLogic\bin\Debug\net8.0\ChessLogic.deps.json
+C:\Users\Артём Плешаков\source\repos\ChessGame\ChessLogic\bin\Debug\net8.0\ChessLogic.dll
+C:\Users\Артём Плешаков\source\repos\ChessGame\ChessLogic\bin\Debug\net8.0\ChessLogic.pdb
+C:\Users\Артём Плешаков\source\repos\ChessGame\ChessLogic\obj\Debug\net8.0\ChessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артём Плешаков\source\repos\ChessGame\ChessLogic\obj\Debug\net8.0\ChessLogic.AssemblyInfoInputs.cache
+C:\Users\Артём Плешаков\source\repos\ChessGame\ChessLogic\obj\Debug\net8.0\ChessLogic.AssemblyInfo.cs
+C:\Users\Артём Плешаков\source\repos\ChessGame\ChessLogic\obj\Debug\net8.0\ChessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Артём Плешаков\source\repos\ChessGame\ChessLogic\obj\Debug\net8.0\ChessLogic.dll
+C:\Users\Артём Плешаков\source\repos\ChessGame\ChessLogic\obj\Debug\net8.0\refint\ChessLogic.dll
+C:\Users\Артём Плешаков\source\repos\ChessGame\ChessLogic\obj\Debug\net8.0\ChessLogic.pdb
+C:\Users\Артём Плешаков\source\repos\ChessGame\ChessLogic\obj\Debug\net8.0\ref\ChessLogic.dll
+C:\Users\Артём Плешаков\source\repos\ChessGame\ChessLogic\obj\Debug\net8.0\ChessLogic.csproj.AssemblyReference.cache
+E:\ChessGame\ChessLogic\bin\Debug\net8.0\ChessLogic.deps.json
+E:\ChessGame\ChessLogic\bin\Debug\net8.0\ChessLogic.dll
+E:\ChessGame\ChessLogic\bin\Debug\net8.0\ChessLogic.pdb
+E:\ChessGame\ChessLogic\obj\Debug\net8.0\ChessLogic.csproj.AssemblyReference.cache
+E:\ChessGame\ChessLogic\obj\Debug\net8.0\ChessLogic.GeneratedMSBuildEditorConfig.editorconfig
+E:\ChessGame\ChessLogic\obj\Debug\net8.0\ChessLogic.AssemblyInfoInputs.cache
+E:\ChessGame\ChessLogic\obj\Debug\net8.0\ChessLogic.AssemblyInfo.cs
+E:\ChessGame\ChessLogic\obj\Debug\net8.0\ChessLogic.csproj.CoreCompileInputs.cache
+E:\ChessGame\ChessLogic\obj\Debug\net8.0\ChessLogic.dll
+E:\ChessGame\ChessLogic\obj\Debug\net8.0\refint\ChessLogic.dll
+E:\ChessGame\ChessLogic\obj\Debug\net8.0\ChessLogic.pdb
+E:\ChessGame\ChessLogic\obj\Debug\net8.0\ref\ChessLogic.dll
