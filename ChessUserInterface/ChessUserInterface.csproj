@@ -1,0 +1,57 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Материалы\BishopB.png" />
+    <None Remove="Материалы\BishopW.png" />
+    <None Remove="Материалы\Board.png" />
+    <None Remove="Материалы\CursorB.cur" />
+    <None Remove="Материалы\CursorW.cur" />
+    <None Remove="Материалы\icon.ico" />
+    <None Remove="Материалы\KingB.png" />
+    <None Remove="Материалы\KingW.png" />
+    <None Remove="Материалы\KnightB.png" />
+    <None Remove="Материалы\KnightW.png" />
+    <None Remove="Материалы\PawnB.png" />
+    <None Remove="Материалы\PawnW.png" />
+    <None Remove="Материалы\QueenB.png" />
+    <None Remove="Материалы\QueenW.png" />
+    <None Remove="Материалы\RookB.png" />
+    <None Remove="Материалы\RookW.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SQLite" Version="1.0.118.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ChessLogic\ChessLogic.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Материалы\BishopB.png" />
+    <Resource Include="Материалы\BishopW.png" />
+    <Resource Include="Материалы\Board.png" />
+    <Resource Include="Материалы\CursorB.cur" />
+    <Resource Include="Материалы\CursorW.cur" />
+    <Resource Include="Материалы\icon.ico" />
+    <Resource Include="Материалы\KingB.png" />
+    <Resource Include="Материалы\KingW.png" />
+    <Resource Include="Материалы\KnightB.png" />
+    <Resource Include="Материалы\KnightW.png" />
+    <Resource Include="Материалы\PawnB.png" />
+    <Resource Include="Материалы\PawnW.png" />
+    <Resource Include="Материалы\QueenB.png" />
+    <Resource Include="Материалы\QueenW.png" />
+    <Resource Include="Материалы\RookB.png" />
+    <Resource Include="Материалы\RookW.png" />
+  </ItemGroup>
+
+</Project>
